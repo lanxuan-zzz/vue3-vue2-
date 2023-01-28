@@ -10,6 +10,6 @@
 
 
 
-##使用到的技术点
+## 使用到的技术点  
 
 ***vue-router、vue3-Vant、vuex、axios***
